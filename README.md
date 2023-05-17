@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Axes11H 
+- 👀 I’m interested in Web-development
+- 🌱 I’m currently learning JavaScript and React
+- 💞️ I’m not looking to collaborate now
+- 📫 How to reach me baklazhovivan2022@gmail.com or https://www.instagram.com/vanya_bakl1/?next=https%3A%2F%2Fwww.instagram.com%2F;
